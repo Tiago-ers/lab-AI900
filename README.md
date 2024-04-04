@@ -7,6 +7,7 @@ Tutorial:
  <a href="https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html" target="blank">Microsoft Aprender</a>
 
  Ponto de extremidade:
+ ```json
  {
    "Inputs": { 
      "data": [
@@ -28,3 +29,4 @@ Tutorial:
    },   
    "GlobalParameters": 1.0
  }
+```
